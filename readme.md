@@ -15,9 +15,24 @@ Questo progetto è una simulazione del gioco del bowling, sviluppato per fornire
 
 ### Tecnologie Utilizzate
 
-- **Linguaggi di Programmazione:** JavaScript, HTML5 per la struttura e CSS3 per lo stile
-- **Framework e Librerie:** Bootstrap per il design reattivo.
+    Linguaggio di Programmazione: JavaScript
+    Framework e Librerie: Bootstrap per il design reattivo, HTML5 per la struttura e CSS3 per lo stile
+    Grafica e Design: Grafica vettoriale per un aspetto pulito e moderno
 
 
+Come Contribuire
 
-*Per qualsiasi domanda o suggerimento, non esitare a contattarmi all'indirizzo email: flaviavignanelli29@gmail.com*
+Siamo sempre alla ricerca di contributi da parte della comunità! Se desideri contribuire, segui questi passaggi:
+
+    Fork la Repository
+    Crea un Branch per la Tua Funzionalità (git checkout -b nuova-funzionalità)
+    Commit i Tuoi Cambiamenti (git commit -m 'Aggiunta nuova funzionalità')
+    Push il Branch (git push origin nuova-funzionalità)
+    Crea una Pull Request
+
+Licenza
+
+Questo progetto è distribuito sotto la licenza MIT.
+Contatti
+
+Per qualsiasi domanda o suggerimento, non esitare a contattarci all'indirizzo email: [flaviavignanelli29@gmail.com]
