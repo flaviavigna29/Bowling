@@ -1,7 +1,7 @@
-##Simulazione del Gioco del Bowling 🎳
+## Simulazione del Gioco del Bowling 🎳
 ________________________________________
 
-#Descrizione del Progetto
+# Descrizione del Progetto
 
 Questo progetto è una simulazione del gioco del bowling, sviluppato per fornire un'esperienza interattiva e coinvolgente agli utenti. L'obiettivo principale è quello di ricreare le dinamiche del bowling reale, offrendo un sistema di punteggio accurato e una grafica accattivante. 
 
